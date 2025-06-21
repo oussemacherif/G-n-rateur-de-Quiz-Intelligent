@@ -1,1 +1,1 @@
-# G-n-rateur-de-Quiz-Intelligent
+# Generateur-de-Quiz-Intelligent
